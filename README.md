@@ -1,2 +1,2 @@
-# CGAN---Felix
+# CGAN-Felix
 cgan ni peleks
